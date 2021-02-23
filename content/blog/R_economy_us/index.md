@@ -12,7 +12,7 @@ contributors: ["R"]
 ---
 
 <p align="center">
-  <img src="adv_movies.jpg" width="100%" title="hover text">
+  <img src="chart_intro.png" width="100%" title="hover text">
 </p>
 
 &emsp; Explanation in this notebook could be way too detailed for some of advanced users. If you are pro R developer you might want to go visit my repo directly on Github
@@ -92,7 +92,7 @@ multiplot(diagr_pce, diagr_unemploy)
 ```
 
 <p align="center">
-  <img src="https://i.ibb.co/r2h0b46/Rplot001.png" width="100%" title="hover text">
+  <img src="chart_unpl_pce.png" width="100%" title="hover text">
 </p>
 
 
@@ -112,7 +112,7 @@ diagr_unemploy_rate <- (ggplot(data, aes(x=date, y=unemploy*100/pop))+
 diagr_unemploy_rate
 ```
 <p align="center">
-  <img src="https://i.ibb.co/nrsSfvh/Rplot07.png" width="100%" title="hover text">
+  <img src="chart_unpl.png" width="100%" title="hover text">
 </p>
 
 
@@ -139,7 +139,7 @@ ggplot(data, aes(x=pce, y=psavert, color=uempmed)) +
 ```
 
 <p align="center">
-  <img src="https://i.ibb.co/6Z7hz91/Rplot-bubb.png" width="100%" title="hover text">
+  <img src="chart_pce_bubble.png" width="100%" title="hover text">
 </p>
 
 &emsp; It can be clearly seen in the chart that as consumer spending increases, the percentage of private savings decreases. It seems that the consumptive lifestyle is depleting our savings. The chart is difficult to read because we did not take into account the inflation rate. More about it in the next part of the advanced analysis.
