@@ -12,7 +12,7 @@ contributors: ["R"]
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/Sfr7jfm/Rplot071.png" width="100%" title="hover text">
+  <img src="adv_movies.jpg" width="100%" title="hover text">
 </p>
 
 &emsp; Explanation in this notebook could be way too detailed for some of advanced users. If you are pro R developer you might want to go visit my repo directly on Github
