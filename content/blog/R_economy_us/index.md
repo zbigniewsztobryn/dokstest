@@ -10,8 +10,6 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["R"]
 ---
-
-
 {{< img src="chart_intro.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
 &emsp; Explanation in this notebook could be way too detailed for some of advanced users. If you are pro R developer you might want to go visit my repo directly on Github
 

@@ -2,10 +2,10 @@
 title: "Introduction"
 description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "It's nice to get know each other"
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+date: 2021-02-06T08:48:57+00:00
+lastmod: 2021-02-06T08:48:57+00:00
 draft: false
-images: []
+images: ["say-hello-to-doks.png"]
 menu:
   docs:
     parent: "prologue"
@@ -15,9 +15,8 @@ toc: true
 
 ## &nbsp;<b>About me</b>
 ------
-<p align="center">
-  <img src="https://i.ibb.co/0rhh1B0/background1400.png" width="100%" title="cover photo">
-</p>
+
+<img src="https://i.stack.imgur.com/sABdO.png" width="100%" title="hover text">
 
 ### &nbsp;&nbsp;Who I am?
 <div style="padding-left: 20px;">

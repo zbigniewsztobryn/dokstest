@@ -14,6 +14,8 @@ toc: true
 ---
 
 ---
+
+
 ## <b>Programming</b>
 ### &nbsp;&nbsp;2019-2021
 &nbsp;&nbsp;<b><a href="https://www.swissroc.ch/" target="_blank"> Swissrc Building Intelligence→</a></b>
