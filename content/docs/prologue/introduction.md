@@ -21,7 +21,7 @@ toc: true
 
 ### &nbsp;&nbsp;Who I am?
 <div style="padding-left: 20px;">
-&emsp;Hi, my name is <b>Zbigniew Sztobryn</b>. I'm a beginning data scientist.
+&emsp;Hi, my name is <b>Zbigniew Sztobryn</b>. I'm a beginning Data Scientist.
 </div>
 
 
