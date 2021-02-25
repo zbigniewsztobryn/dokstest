@@ -16,7 +16,7 @@ toc: true
 ## &nbsp;<b>About me</b>
 ------
 
-<img src="https://i.stack.imgur.com/sABdO.png" width="100%" title="hover text">
+
 
 ### &nbsp;&nbsp;Who I am?
 <div style="padding-left: 20px;">

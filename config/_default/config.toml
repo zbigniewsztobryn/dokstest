@@ -68,7 +68,7 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/blog/:title/"
-
+  about = "/docs/prologue/"
 [module]
   [[module.mounts]]
     source = "assets"
