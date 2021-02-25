@@ -12,7 +12,7 @@ contributors: ["R"]
 ---
 
 
-{{< img src="chart_intro.png" alt="Rectangle" caption="<em>Rectangle</em>" class="border-0" >}}
+{{< img src="chart_intro.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
 &emsp; Explanation in this notebook could be way too detailed for some of advanced users. If you are pro R developer you might want to go visit my repo directly on Github
 
 Don't hesitate and <b><a href="https://github.com/zbigniewsztobryn/worksR/blob/main/Basic%20movie%20analytics%20using%20R.R" target="_blank"> go visit this repo on Github→</a></b>
@@ -89,7 +89,7 @@ diagr_unemploy <- (ggplot(data, aes(x=date, y=unemploy,size=pop))+
 multiplot(diagr_pce, diagr_unemploy)
 ```
 
-{{< img src="chart_unpl_pce.png" alt="Rectangle" caption="<em>Rectangle</em>" class="border-0" >}}
+{{< img src="chart_unpl.png" alt="Rectangle" caption="<em>Private consumption expences and unemployed chart</em>" class="border-0" >}}
 
 
 ### Unemployment rate and insights into economy fluctuations
@@ -108,7 +108,7 @@ diagr_unemploy_rate <- (ggplot(data, aes(x=date, y=unemploy*100/pop))+
 diagr_unemploy_rate
 ```
 
-{{< img src="chart_unpl.png" alt="Rectangle" caption="<em>Rectangle</em>" class="border-0" >}}
+{{< img src="chart_unpl.png" alt="Rectangle" caption="<em>Unemployed rate chart</em>" class="border-0" >}}
 
 &emsp; In the chart, you can see that the economy is subject to business cycles.
 These are fluctuations that are referred to as such factors as GDP dynamics
@@ -133,7 +133,7 @@ ggplot(data, aes(x=pce, y=psavert, color=uempmed)) +
 ```
 
 
-{{< img src="chart_pce_bubble.png" alt="Rectangle" caption="<em>Rectangle</em>" class="border-0" >}}
+{{< img src="chart_pce_bubble.png" alt="Rectangle" caption="<em>Prv. savings rate/PCE chart</em>" class="border-0" >}}
 
 &emsp; It can be clearly seen in the chart that as consumer spending increases, the percentage of private savings decreases. It seems that the consumptive lifestyle is depleting our savings. The chart is difficult to read because we did not take into account the inflation rate. More about it in the next part of the advanced analysis.
 depo test depo test depo test

@@ -15,9 +15,8 @@ toc: true
 
 ## &nbsp;<b>About me</b>
 ------
-
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMkQ3YYRFm_LAnursZ_eDWczVZZ9u_dd_kQ&usqp=CAU" width="100%" title="hover text">
+  <img src="https://i.ibb.co/0rhh1B0/background1400.png" width="100%" title="hover text">
 </p>
 
 ### &nbsp;&nbsp;Who I am?
