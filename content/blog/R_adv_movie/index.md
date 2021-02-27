@@ -19,7 +19,7 @@ contributors: ["R"]
 \
 &emsp; In order to see this repo directly <b><a href="https://github.com/zbigniewsztobryn/worksR/blob/main/Basic%20movie%20analytics%20using%20R.R" target="_blank"> go right on Github repo→</a></b>
 \
-&emsp; If you would like to keep up with me, go and <b><b><a href="https://github.com/zbigniewsztobryn/worksR/tree/main/data" target="_blank">get work datasets→</a></b>
+&emsp; If you would like to keep up with me, go and <b><a href="https://github.com/zbigniewsztobryn/worksR/tree/main/data" target="_blank">get work datasets→</a></b>
 ### Let's got to work
 &emsp;Set working directories in running folder
 ```bash

@@ -15,6 +15,7 @@ toc: true
 
 ## &nbsp;<b>About me</b>
 ------
+{{< img src="1400.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
 
 
 

@@ -15,6 +15,9 @@ toc: true
 
 ## <b>Degrees</b>
 ------
+{{< img src="education2.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
+
+
 ### &nbsp;&nbsp;Post-graduate
 
 &nbsp;&nbsp;&nbsp;<b>2020 - 2021</b>
@@ -30,6 +33,10 @@ toc: true
 
 ## <b>Courses</b>
 ------
+
+{{< img src="education1.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
+
+
 ### &nbsp;&nbsp;Tableau
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ### &nbsp;&nbsp;SAS Viya

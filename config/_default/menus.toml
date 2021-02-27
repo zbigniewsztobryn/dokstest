@@ -22,8 +22,8 @@
 
 [[main]]
   name = "Contact"
-  url = "blog/keep-in-touch/"
-  weight = 50
+  url = "/contact/"
+  weight = 30
 
 # [[social]]
 #   name = "Twitter"
