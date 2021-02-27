@@ -15,7 +15,8 @@ toc: true
 
 ---
 
-{{< img src="experience.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
+{{< img src="experience.png" alt="work-image" caption="<em></em>" class="border-0" >}}
+
 
 ## <b>Programming</b>
 ### &nbsp;&nbsp;2019-2021
