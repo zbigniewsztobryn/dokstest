@@ -16,7 +16,6 @@ toc: true
 ## &nbsp;<b>About me</b>
 ------
 {{< img src="1400.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
-<a href="https://ibb.co/ssYvmw1"><img src="https://i.ibb.co/wpmN0WQ/1400.png" alt="1400" border="0"></a>
 
 
 ### &nbsp;&nbsp;Who I am?
@@ -57,7 +56,7 @@ toc: true
 * Driving licence
 * Fluent english
 * Handling high-pressure
-* Focus
+* Highly focused
 
 ## &nbsp;<b>Irrelevant</b>
 ------
@@ -66,4 +65,4 @@ toc: true
 <div style="padding-left: 20px;">
 &emsp;Beside of data and programming I like sport. Since long time I do road-cycling. Also I love to compete, so I do train material-art such as Brazilian Ju-Jitsu. I am inclined towards italian architecture and drawing due to architectual background.
 </div>
-testtesttest
+
