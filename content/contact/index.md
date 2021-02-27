@@ -43,7 +43,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </a>&emsp;<a href="+48510473350">+48 510 473 350 →</a>
 </b>
 
-
+See you!
 
 
 
