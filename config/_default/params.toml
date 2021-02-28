@@ -1,9 +1,9 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Datark"
-titleSeparator = "-"
-titleAddition = "Zbigniew Sztobryn"
+title = "DATARK"
+titleSeparator = ""
+titleAddition = ""
 description = "Hi, there! My name is Zbigniew and I am developing data science projects"
 
 ## Open Graph + Twitter Cards
