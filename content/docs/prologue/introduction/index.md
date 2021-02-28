@@ -38,6 +38,9 @@ toc: true
 &emsp;I would like to be Data specialist. My goal is to pursuit Data Science career. Since I started to work with Big data I fell in love with it. I has became my passion, hobby and part of every day routine.
 </div>
 
+{{< img src="dribbble.png" alt="Rectangle" caption="<em></em>" class="border-0" >}}
+
+
 ## &nbsp;<b>Skills</b>
 ------
 
