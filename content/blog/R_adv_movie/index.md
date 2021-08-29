@@ -12,7 +12,7 @@ contributors: ["R"]
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/wrnmgZV/adv-movies.jpg" width="100%" title="hover text">
+  <img src="adv_movies.jpg" width="100%" title="hover text">
 </p>
 
 
@@ -94,7 +94,7 @@ multiplot(diagr_pce, diagr_unemploy)
 ```
 
 <p align="center">
-  <img src="https://i.ibb.co/r2h0b46/Rplot001.png" width="100%" title="hover text">
+  <img src="Rplot001.png" width="100%" title="hover text">
 </p>
 
 
