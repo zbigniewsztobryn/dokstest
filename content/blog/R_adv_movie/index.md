@@ -147,4 +147,4 @@ ggplot(data, aes(x=pce, y=psavert, color=uempmed)) +
 &emsp; It can be clearly seen in the chart that as consumer spending increases, the percentage of private savings decreases. It seems that the consumptive lifestyle is depleting our savings. The chart is difficult to read because we did not take into account the inflation rate. More about it in the next part of the advanced analysis.
 
 
-
+tewt
