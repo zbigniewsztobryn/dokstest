@@ -38,14 +38,14 @@ toc: true
 
 
 ### &nbsp;&nbsp;Tableau
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* During the course I dealt with data searching. I know how to connect data and do advanced visualizations. Dynamic graphs, working with parameters, using statistical modules. Numerical calculations and work with locations. At the end, I created a ready report using a dynamic dashboard
 ### &nbsp;&nbsp;SAS Viya
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* I used the SAS Viya platform for data mining, through the use of advanced statistical methods, data mining, data science, forecasting, optimization methods, up to the implementation of analysis results, managing multiple models in the production environment and reporting the results.
 ### &nbsp;&nbsp;Python
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* I feel very comfortable with Python and have been dealing with it for several years. I used it both to write original scripts to collect data, connect to various APIs, and improve the flow of information between different project participants.
 <br><b>[See my Python-related articles →]({{< ref "/contributors/r" >}})</b><br />
 ### &nbsp;&nbsp;R
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* I mainly used R to test statistical methods. Build reports (notebooks) and charts based on analytical data.
 <br><b>[See my R-related articles →]({{< ref "/contributors/r" >}})</b><br />
 testtesttest
 testtesttest
