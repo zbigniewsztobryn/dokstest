@@ -47,6 +47,4 @@ toc: true
 ### &nbsp;&nbsp;R
 * I mainly used R to test statistical methods. Build reports (notebooks) and charts based on analytical data.
 <br><b>[See my R-related articles →]({{< ref "/contributors/r" >}})</b><br />
-testtesttest
-testtesttest
 
