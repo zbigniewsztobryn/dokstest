@@ -8,7 +8,6 @@
       {{- $active = or $active (eq $currentPage.Section .Identifier) -}}
       <li><a class="docs-link{{ if $active }} active{{ end }}" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
     {{ end -}}
-
   </ul>
   {{ end -}}
 {{ end -}}
