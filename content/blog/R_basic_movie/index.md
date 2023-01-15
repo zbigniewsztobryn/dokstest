@@ -1,7 +1,7 @@
 ---
 title: "Basic movie analysis using R"
 description: ""
-lead: "This is how I took dataframe containing movies. It's about cleaning missing data and get relevant insights. I this task I woud use <b>R</b> with few packages like <b>Stringr</b>, <b>Tibble</b> and <b>Dplyer</b>"
+lead: "&emsp;This is how I took dataframe containing movies. It's about cleaning missing data and get relevant insights. I this task I woud use <b>R</b> with few packages like <b>Stringr</b>, <b>Tibble</b> and <b>Dplyer</b>"
 content: ""
 date: 2020-10-16T09:19:42+01:00
 lastmod: 2020-10-16T09:19:42+01:00
@@ -14,7 +14,7 @@ contributors: ["R"]
 <p align="center">
   <img src="https://i.stack.imgur.com/sABdO.png" width="100%" title="hover text">
 </p>
-I would like to make basic analytics on movies dataset. It includes ranking, preferences by gender, and average production year in particular group age. Its all done in R and is introduction to my work with this language. Commentaries could be well to detailed for some advanced users.
+&emsp;I would like to make basic analytics on movies dataset. It includes ranking, preferences by gender, and average production year in particular group age. Its all done in R and is introduction to my work with this language. Commentaries could be well to detailed for some advanced users.
 
 In order to get whole chunk of code without explanation <b><a href="https://github.com/zbigniewsztobryn/worksR/blob/main/Basic%20movie%20analytics%20using%20R.R" target="_blank"> visit this repo on Github→</a></b>
 
