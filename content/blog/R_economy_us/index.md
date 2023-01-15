@@ -7,7 +7,7 @@ date: 2020-10-16T09:19:42+01:00
 lastmod: 2020-10-16T09:19:42+01:00
 draft: false
 menu:
-  docs:
+  blog:
     parent: "blog"
 weight: 610
 toc: true
