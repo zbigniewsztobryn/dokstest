@@ -12,7 +12,7 @@ contributors: ["M"]
 ---
 
 <p align="center">
-  <img src="https://i.stack.imgur.com/sABdO.png" width="100%" title="hover text">
+  <img src="adv_movies.jpg" width="100%" title="hover text">
 </p>
 &emsp;I would like to make basic analytics on movies dataset. It includes ranking, preferences by gender, and average production year in particular group age. Its all done in R and is introduction to my work with this language. Commentaries could be well to detailed for some advanced users.
 
