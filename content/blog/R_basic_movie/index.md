@@ -21,7 +21,7 @@ In order to get whole chunk of code without explanation <b><a href="https://gith
 
 
 
-### Let's get started
+## Let's get started
 &emsp;Set working directories in running folder
 
 {{< btn-copy text="setwd(dirname(rstudioapi::getActiveDocumentContext()$path))" >}}
@@ -66,7 +66,7 @@ movies$title <- str_sub(movies$title,1, -8)
 ```bash
 nona_movies <- movies[complete.cases(movies$year,movies$movieID),]
 ```
-
+### Operations
 &emsp; Operations on columns
 {{< btn-copy text="nona_movies$year <- as.integer(nona_movies$year) &#013;nona_movies <- nona_movies&#91;complete.cases(nona_movies$year),&#93;" >}}
 ```bash
@@ -93,7 +93,7 @@ str(nona_movies)
 ```bash
 nona_movies %>% count(year) -> movies_by_year
 ```
-#### Sort top 5 results
+### Sort top 5 results
 &emsp; Sorting and get 5 top values using <b>head()</b> function
 {{< btn-copy text="names(movies_by_year)&#91;names(movies_by_year) == 'n'&#93;<- 'total_movies' &#013;movies_by_year&#91;with(movies_by_year, order(total_movies, year,decreasing = TRUE)), &#93; -> sorted_by_year &#013;head(sorted_by_year,5)" >}}
 ```bash
@@ -281,7 +281,7 @@ for (i in age_groups$Age){ &#013;
 }
 ```
 
-##### Result
+## Result
 ```bash
 [1] "Dla grupy wiekowej 18. usredniony rok producji filmu wynosi:"
 [2] "1990"

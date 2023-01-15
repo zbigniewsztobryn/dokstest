@@ -14,7 +14,7 @@ contributors: ["R"]
 &emsp; Explanation in this notebook could be way too detailed for some of advanced users. If you are pro R developer you might want to go visit my repo directly on Github
 
 Don't hesitate and <b><a href="https://github.com/zbigniewsztobryn/worksR/blob/main/Basic%20movie%20analytics%20using%20R.R" target="_blank"> go visit this repo on Github→</a></b>
-### Lets get dirty
+## Lets get dirty
 &emsp;Set working directories in running folder
 ```bash
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
@@ -90,7 +90,7 @@ multiplot(diagr_pce, diagr_unemploy)
 {{< img src="chart_unpl_pce.png" alt="Rectangle" caption="<em>Private consumption expences and unemployed chart</em>" class="border-0" >}}
 
 
-### Unemployment rate and insights into economy fluctuations
+## Unemployment rate and insights into economy fluctuations
 &emsp;Plot function of unemployment rate in time
 ```bash
 diagr_unemploy_rate <- (ggplot(data, aes(x=date, y=unemploy*100/pop))+
@@ -107,6 +107,8 @@ diagr_unemploy_rate
 ```
 
 {{< img src="chart_unpl.png" alt="Rectangle" caption="<em>Unemployed rate chart</em>" class="border-0" >}}
+
+### 1979 Oil crisis
 
 &emsp; In the chart, you can see that the economy is subject to business cycles.
 These are fluctuations that are referred to as such factors as GDP dynamics
