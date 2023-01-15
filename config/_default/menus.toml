@@ -11,11 +11,16 @@
   url = "/docs/help/"
 
 [[blog]]
-  name = "Articles"
+  name = "Most recent articles"
   weight = 60
   identifier = "blog"
   url = "/blog/"
 
+[[blog]]
+  name = "Categories"
+  weight = 60
+  identifier = "contributors"
+  url = "/contributors/"
 
 [[main]]
   name = "About"
