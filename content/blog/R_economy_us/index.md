@@ -87,7 +87,7 @@ diagr_unemploy <- (ggplot(data, aes(x=date, y=unemploy,size=pop))+
 multiplot(diagr_pce, diagr_unemploy)
 ```
 
-{{< img src="chart_unpl.png" alt="Rectangle" caption="<em>Private consumption expences and unemployed chart</em>" class="border-0" >}}
+{{< img src="chart_unpl_pce.png" alt="Rectangle" caption="<em>Private consumption expences and unemployed chart</em>" class="border-0" >}}
 
 
 ### Unemployment rate and insights into economy fluctuations
