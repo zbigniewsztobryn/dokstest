@@ -43,7 +43,7 @@ toc: true
 * I used the SAS Viya platform for data mining, through the use of advanced statistical methods, data mining, data science, forecasting, optimization methods, up to the implementation of analysis results, managing multiple models in the production environment and reporting the results.
 ### &nbsp;&nbsp;Python
 * I feel very comfortable with Python and have been dealing with it for several years. I used it both to write original scripts to collect data, connect to various APIs, and improve the flow of information between different project participants.
-<br><b>[See my Python-related articles →]({{< ref "/contributors/python" >}})</b><br />
+<br><b>[See my Python-related articles →]({{< ref "/contributors/r" >}})</b><br />
 ### &nbsp;&nbsp;R
 * I mainly used R to test statistical methods. Build reports (notebooks) and charts based on analytical data.
 <br><b>[See my R-related articles →]({{< ref "/contributors/r" >}})</b><br />
