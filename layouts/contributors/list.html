@@ -1,4 +1,3 @@
-
 {{ define "main" }}
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar">
@@ -19,9 +18,9 @@
 						<div class="card-body">
 							<h2 class="h3"><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h2>
 							{{ if eq .Section "blog" -}}
-								<p>{{ .Params.lead | safeHTML }}</p>
-								{{ partial "main/blog-meta.html" . -}}
-							{{ end -}}
+              <p>{{ .Params.lead | safeHTML }}</p>
+							{{ partial "main/blog-meta.html" . -}}
+              {{ end -}}
 						</div>
 					</div>
 				{{ end -}}
@@ -33,3 +32,5 @@
   </div>
 
 {{ end }}
+
+
