@@ -10,11 +10,11 @@
 
 
 
-  <div class="col-md-12 col-lg-10 col-xl-14">
+
     <article>
       <h1 class="text-center">{{ .Title }}</h1>
       <div class="text-center">{{ .Content }}</div>
-			<div class="card-group">
+  <div class="row flex-xl-nowrap">
 				{{ range .Data.Pages -}}
 					<div class="card">
 						<div class="card-body">
@@ -27,6 +27,7 @@
 			</div>
     </article>
   </div>
+
   </div>
 
 {{ end }}
