@@ -10,23 +10,17 @@
   identifier = "help"
   url = "/docs/help/"
 
-[[blog]]
-  name = "Recent articles"
-  weight = 60
-  identifier = "blog"
-  url = "/blog/"
-
-[[blog]]
-  name = "Categories"
-  weight = 60
-  identifier = "contributors"
-  url = "/contributors/"
-
 [[cat]]
   name = "Categories"
   weight = 60
   identifier = "contributors"
   url = "/contributors/"
+
+[[blog]]
+  name = "Recent articles"
+  weight = 60
+  identifier = "blog"
+  url = "/blog/"
 
 [[main]]
   name = "About"
