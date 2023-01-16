@@ -6,9 +6,6 @@ content: ""
 date: 2021-10-16T09:19:42+01:00
 lastmod: 2020-10-16T09:19:42+01:00
 draft: false
-menu:
-  blog:
-    parent: "blog"
 toc: false
 weight: 400
 images: ["say-hello-to-doks.png"]
