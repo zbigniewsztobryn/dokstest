@@ -7,12 +7,12 @@
 }
 
 
-.card-group {
+.row {
    display: flex;
    flex-wrap: wrap;
 }
 
-.card-group > div[class*='col-'] {
+.row > div[class*='col-'] {
   display: flex;
 }
 

@@ -9,12 +9,15 @@
 		</div>
 
 
+
+
   <div class="col-md-12 col-lg-10 col-xl-14">
     <article>
       <h1 class="text-center">{{ .Title }}</h1>
       <div class="text-center">{{ .Content }}</div>
-			<div class="card-group">
+    <div class="row">
 				{{ range .Data.Pages -}}
+        <div class="col-sm-3">
 					<div class="card">
 						<div class="card-body">
 							<h2 class="h3"><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h2>
