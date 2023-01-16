@@ -22,6 +22,11 @@
   identifier = "contributors"
   url = "/contributors/"
 
+[[cat]]
+  name = "Categories"
+  weight = 60
+  identifier = "contributors"
+  url = "/contributors/"
 
 [[main]]
   name = "About"
