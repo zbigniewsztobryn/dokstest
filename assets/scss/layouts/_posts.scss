@@ -7,15 +7,6 @@
 }
 
 
-.row {
-   display: flex;
-   flex-wrap: wrap;
-}
-
-.row > div[class*='col-'] {
-  display: flex;
-}
-
 .home .card:hover,
 .contributors.list .card:hover,
 .blog.list .card:hover {
