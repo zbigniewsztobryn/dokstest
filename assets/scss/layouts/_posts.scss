@@ -4,9 +4,12 @@
   margin-bottom: 2rem;
   transition: transform 0.3s;
 }
-.blog.list .card {
+.blog.list .card,
+.contributors.list .card {
   margin-top: 2rem;
   margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
   transition: transform 0.3s;
   width: 32%;
   min-width: 300px;
