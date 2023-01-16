@@ -10,7 +10,7 @@
   identifier = "help"
   url = "/docs/help/"
 
-[[cat]]
+[[blog]]
   name = "Categories"
   weight = 60
   identifier = "contributors"
