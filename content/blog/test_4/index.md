@@ -9,7 +9,8 @@ draft: false
 toc: true
 weight: 40
 images: ["say-hello-to-doks.png"]
-contributors: ["R"]
+contributors: ["SQL"]
+contributors: ["Python"]
 ---
 
 <p align="center">
