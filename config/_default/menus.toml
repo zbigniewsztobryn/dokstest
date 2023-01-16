@@ -16,13 +16,7 @@
   identifier = "blog"
   url = "/blog/"
 
-[[blog]]
-  name = "Categories"
-  weight = 60
-  identifier = "contributors"
-  url = "/contributors/"
-
-[[cat]]
+[[categories]]
   name = "Categories"
   weight = 60
   identifier = "contributors"
