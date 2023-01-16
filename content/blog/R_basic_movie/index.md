@@ -3,15 +3,14 @@ title: "Basic movie analysis using R"
 description: ""
 lead: "&emsp;This is how I took dataframe containing movies. It's about cleaning missing data and get relevant insights. I this task I woud use <b>R</b> with few packages like <b>Stringr</b>, <b>Tibble</b> and <b>Dplyer</b>"
 content: ""
-date: 2020-10-16T09:19:42+01:00
+date: 2020-08-16T09:19:42+01:00
 lastmod: 2020-10-16T09:19:42+01:00
 draft: false
 menu:
   blog:
     parent: "blog"
-weight: 610
 toc: true
-weight: 50
+weight: 90
 images: ["say-hello-to-doks.png"]
 contributors: ["Python"]
 ---

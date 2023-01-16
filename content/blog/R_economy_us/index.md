@@ -9,9 +9,8 @@ draft: false
 menu:
   blog:
     parent: "blog"
-weight: 610
 toc: true
-weight: 50
+weight: 80
 images: ["say-hello-to-doks.png"]
 contributors: ["R"]
 ---

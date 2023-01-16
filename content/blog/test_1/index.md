@@ -3,15 +3,14 @@ title: "Test 1"
 description: ""
 lead: " My main concern today is to browse through budgets of movies. I would like to see how it evolved in time and how it's related to genre. This would consider <b>CPI</b> to get most realistic numbers. My main tool in this struggle would be <b>ggplot2</b> in producing charts and <b>lubridate</b> package in calculate nominal budgets considering inflation."
 content: ""
-date: 2020-10-16T09:19:42+01:00
+date: 2021-08-16T09:19:42+01:00
 lastmod: 2020-10-16T09:19:42+01:00
 draft: false
 menu:
   blog:
     parent: "blog"
-weight: 610
 toc: true
-weight: 50
+weight: 70
 images: ["say-hello-to-doks.png"]
 contributors: ["R"]
 ---
