@@ -1,0 +1,44 @@
+{{ define "main" }}
+	<div class="row flex-xl-nowrap">
+		<div class="col-lg-5 col-xl-4 docs-sidebar">
+			<nav class="docs-links" aria-label="Main navigation">
+				{{ partial "sidebar/docs-menu-blog.html" . }}
+			</nav>
+		</div>
+
+
+    <article>
+      <h1 class="text-center">{{ .Title }}</h1>
+      <div class="text-center">{{ .Content }}</div>
+			<div class="card-list">
+				{{ range .Data.Pages -}}
+					<div class="card">
+						<div class="card-body">
+							<h2 class="h3"><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h2>
+							<p>{{ .Params.lead | safeHTML }}</p>
+							{{ partial "main/blog-meta.html" . -}}
+						</div>
+					</div>
+				{{ end -}}
+			</div>
+    </article>
+
+{{ range .Data.Pages -}}
+    <div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="adv_movies.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{ .Title }}</h5>
+      <p class="card-text">{{ .Params.lead | safeHTML }}</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">{{ partial "main/blog-meta.html" . -}}</small>
+    </div>
+  </div>
+        </div>
+  {{ end -}}
+
+
+
+
+{{ end }}
