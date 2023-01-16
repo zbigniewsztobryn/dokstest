@@ -10,7 +10,7 @@ menu:
   blog:
     parent: "blog"
 toc: true
-weight: 70
+weight: 110
 images: ["say-hello-to-doks.png"]
 contributors: ["R"]
 ---
