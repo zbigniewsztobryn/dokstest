@@ -4,7 +4,16 @@
   margin-top: 2rem;
   margin-bottom: 2rem;
   transition: transform 0.3s;
-  width: 500px;
+}
+
+
+.card-group {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.card-group > div[class*='col-'] {
+  display: flex;
 }
 
 .home .card:hover,
