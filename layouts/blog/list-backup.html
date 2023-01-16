@@ -25,22 +25,6 @@
 			</div>
     </article>
 
-{{ range .Data.Pages -}}
-    <div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="adv_movies.jpg" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">{{ .Title }}</h5>
-      <p class="card-text">{{ .Params.lead | safeHTML }}</p>
-    </div>
-    <div class="card-footer">
-      <small class="text-muted">{{ partial "main/blog-meta.html" . -}}</small>
-    </div>
-  </div>
-        </div>
-  {{ end -}}
-
-
 
 </div>
 {{ end }}
