@@ -12,14 +12,12 @@
 
   <div class="col-md-12 col-lg-10 col-xl-12">
     <article>
-      <img src={{ .Images }} alt="Flowers in Chania">
       <h1 class="text-center">{{ .Title }}</h1>
       <div class="text-center">{{ .Content }}</div>
   <div class="row flex-xl-wrap">
 				{{ range .Data.Pages -}}
 					<div class="card">
 						<div class="card-body">
-
 							<h2 class="h3"><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h2>
 							<p>{{ .Params.lead | safeHTML }}</p>
 							{{ partial "main/blog-meta.html" . -}}
