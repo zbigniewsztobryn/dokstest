@@ -9,7 +9,7 @@ draft: false
 menu:
   blog:
     parent: "blog"
-toc: true
+toc: false
 weight: 400
 images: ["say-hello-to-doks.png"]
 contributors: ["R"]
